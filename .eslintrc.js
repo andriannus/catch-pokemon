@@ -21,5 +21,6 @@ module.exports = {
     "react/jsx-filename-extension": [1, { extensions: [".js", ".jsx"] }],
     "react/jsx-one-expression-per-line": "off",
     "react/react-in-jsx-scope": "off",
+    "import/no-unresolved": "off",
   },
 };
